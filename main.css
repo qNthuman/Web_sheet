@@ -1,0 +1,47 @@
+#Elements_html{
+    border-style: dotted;
+    border-width: 10%;
+    padding:1.5%;
+    border-color:darkgoldenrod;
+}
+#Text_formatting{
+    border-style: dotted;
+    border-width: 10%;
+    padding:1.5%;
+    border-color:darkgoldenrod;
+}
+#page_structure{
+    border-style: dotted;
+    border-width: 10%;
+    padding:1.5%;
+    border-color:darkgoldenrod;
+}
+#det_elements{
+    border-style: dotted;
+    border-width: 10%;
+    padding:1.5%;
+    border-color:darkgoldenrod;
+}
+#html_attributes{
+    border-style: dotted;
+    border-width: 10%;
+    padding:1.5%;
+    border-color:darkgoldenrod;
+}
+h1{
+    border-radius: 50px;
+    border-width: 100px;
+    background: greenyellow;
+    text-align: center;
+
+    border-color: rgb(111, 194, 38);
+}
+p.congo{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    width: 45%;
+    padding: auto;
+}
